@@ -8,7 +8,7 @@ ol{
 }
 html {
   background-color: rgb(6, 81, 75);
-  color: white;
+  color: whitesmoke;
 }
 header{
   padding: 2rem;
@@ -21,25 +21,24 @@ main {
 }
 
 h1 {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   text-align: center;
-  font-size: x-large;
 }
 
 .lista1 {
   width: 33vw;
-  border: 2px solid rgb(104, 92, 92);
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: rgb(29, 28, 28);
+  border: 2px solid whitesmoke;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(9, 27, 28);
   border-radius: 6px;
   font-size: x-large;
 }
 
 table {
   width: 50vw;
-  border: 2px solid rgb(104, 92, 92);
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: rgb(29, 28, 28);
+  border: 2px solid whitesmoke;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(9, 27, 28);
   border-radius: 6px;
   margin-top: 3rem;
   font-size: x-large;
@@ -50,6 +49,6 @@ img {
 }
 
 td {
-  border: 2px solid rgb(104, 92, 92);
+  border: 2px solid whitesmoke;
   text-align: center;
 }

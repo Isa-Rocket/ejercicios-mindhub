@@ -1,0 +1,55 @@
+*:not(ol, ul) {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ol{
+  list-style-type: disc;
+}
+html {
+  background-color: rgb(6, 81, 75);
+  color: white;
+}
+header{
+  padding: 2rem;
+}
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: x-large;
+}
+
+.lista1 {
+  width: 33vw;
+  border: 2px solid rgb(104, 92, 92);
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(29, 28, 28);
+  border-radius: 6px;
+  font-size: x-large;
+}
+
+table {
+  width: 50vw;
+  border: 2px solid rgb(104, 92, 92);
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(29, 28, 28);
+  border-radius: 6px;
+  margin-top: 3rem;
+  font-size: x-large;
+}
+
+img {
+  width: 1.5rem;
+}
+
+td {
+  border: 2px solid rgb(104, 92, 92);
+  text-align: center;
+}
